@@ -2627,7 +2627,7 @@ local Section = W:AddSection({
 W:AddLabel("[+] Pornô Hub is HERE!")
 W:AddLabel("[+] Best AutoFarm!")
 W:AddLabel("[+] Up and Growing")
-W:AddLabel("[+] Smooth")
+W:AddLabel("[+] Script By Mig")
 
 local Section = W:AddSection({
     Name = "Status"
